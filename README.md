@@ -1,2 +1,2 @@
-price-table
-a Simple Price Table
+log-in-page
+a Simple Log In Page
